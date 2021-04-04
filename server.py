@@ -21,7 +21,6 @@ import json
 
 cap = cv.VideoCapture(0)   # Open Camera 
 
-
 ###### Paramaters for openpose ##########
 
 params = dict()
@@ -172,7 +171,7 @@ def getCoordinates(arr) : # Returns coordinates as splittable from Pose Keypoint
        
     return crd         
 
-def start_server(): # Stars server Flask
+def start_server(): # Start server Flask
     app.run(debug=False,host="10.1.22.28", port =5050)
 
 if __name__ == "__main__":
@@ -180,6 +179,9 @@ if __name__ == "__main__":
     try:
         
         start_server()
+        
+        ## For Image Input ## 
+        
         # Store image shape 
         #img_path = "/home/muaz/Desktop/images/rightposture.jpg"
         #img = cv.imread(img_path)
