@@ -1,0 +1,14 @@
+# For Developer Kit
+
+OpenPose API 
+flask
+opencv2
+json
+argparse
+
+# For Personal Computer
+
+opencv2
+json
+tkinker
+requests
