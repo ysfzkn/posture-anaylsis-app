@@ -29,9 +29,9 @@ The following are required:
 * OpenCV (min version 2)
 
 # Cloning and Installing Dependencies
- $ git clone https://github.com/ysfzkn/Posture_Analysis_App/
+ $ git clone https://github.com/ysfzkn/posture-anaylsis-app/
  
- $ cd Posture_Analysis_App
+ $ cd posture-anaylsis-app
  
  $ pip3 install -r requirements.txt
 
