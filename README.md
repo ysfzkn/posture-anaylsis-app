@@ -15,7 +15,7 @@ Results:
 ![posture_demo2](https://user-images.githubusercontent.com/58569590/113511313-ede04480-9567-11eb-95f5-af97c9c0a4aa.jpg)
 
 Introduction Video:
-* *https://www.youtube.com/watch?v=bQAjxHcxU6A*
+* [Video Link](https://www.youtube.com/watch?v=bQAjxHcxU6A)
 
 
 
@@ -29,14 +29,14 @@ The following are required:
 * OpenCV (min version 2)
 
 # Cloning and Installing Dependencies
- $ git clone https://github.com/ysfzkn/posture-anaylsis-app/
+ $ `git clone https://github.com/ysfzkn/posture-anaylsis-app/`
  
- $ cd posture-anaylsis-app
+ $ `cd posture-anaylsis-app`
  
- $ pip3 install -r requirements.txt
+ $ `pip3 install -r requirements.txt`
 
 # Run
 
 * After activate the server program in Jetson Nano,
 * It's just enough run this command on your PC:
-* $ python3 client.py 
+* $ `python3 client.py` 
