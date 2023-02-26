@@ -7,6 +7,9 @@ The 'server.py' can be used on any Developer Kit. And at least 1 camera must be 
 
 The 'client.py' is for your personal computer, you can remote here all of operations on Kit.
 
+# On Nvidia Developer Forum 
+* https://forums.developer.nvidia.com/t/posture-analysis-application-using-jetson-nano/197678?u=ysfzkn58
+
 # Demo 
 Interface : 
 ![posture_demo](https://user-images.githubusercontent.com/58569590/113511234-89bd8080-9567-11eb-8f77-f8bfb8b6c155.jpg)
